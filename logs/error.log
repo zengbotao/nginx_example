@@ -1,0 +1,6 @@
+2022/08/24 10:21:52 [emerg] 19172#26680: CreateFile() "D:\BaiduNetdiskDownload\第七期前端开发课\nginx_zbt/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/08/24 10:31:08 [emerg] 29200#8808: CreateFile() "D:\BaiduNetdiskDownload\第七期前端开发课\nginx_zbt/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/08/24 10:37:33 [emerg] 4916#776: CreateFile() "D:\BaiduNetdiskDownload\第七期前端开发课\nginx_zbt/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/08/24 10:38:52 [emerg] 24840#20876: CreateFile() "D:\BaiduNetdiskDownload\第七期前端开发课\nginx_zbt/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/08/24 10:38:55 [emerg] 21720#26968: CreateFile() "D:\BaiduNetdiskDownload\第七期前端开发课\nginx_zbt/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/08/24 10:42:56 [emerg] 14228#27116: CreateDirectory() "D:\BaiduNetdiskDownload\seven\nginx_zbt/temp/client_body_temp" failed (3: The system cannot find the path specified)
